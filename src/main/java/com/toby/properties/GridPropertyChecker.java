@@ -1,8 +1,8 @@
-package com.altentechnology.gridcomponent.properties;
+package com.toby.properties;
 
-import com.altentechnology.gridcomponent.exceptions.BadSizedGridException;
-import com.altentechnology.gridcomponent.exceptions.LineGapOutOfBoundsException;
-import com.altentechnology.gridcomponent.exceptions.LineWidthOutOfBoundsException;
+import com.toby.exceptions.LineGapOutOfBoundsException;
+import com.toby.exceptions.LineWidthOutOfBoundsException;
+import com.toby.exceptions.BadSizedGridException;
 
 public class GridPropertyChecker {
 	

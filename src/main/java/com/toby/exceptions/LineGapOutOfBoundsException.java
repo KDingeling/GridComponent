@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.exceptions;
+package com.toby.exceptions;
 
 public class LineGapOutOfBoundsException extends Exception {
 

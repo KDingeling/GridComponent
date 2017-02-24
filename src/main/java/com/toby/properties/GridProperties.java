@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.properties;
+package com.toby.properties;
 
 import javafx.scene.paint.Color;
 

@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.cli;
+package com.toby.cli;
 
 import org.apache.commons.cli.BasicParser;
 import org.apache.commons.cli.CommandLine;
@@ -10,7 +10,7 @@ import org.apache.commons.cli.ParseException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.altentechnology.gridcomponent.properties.GridProperties;
+import com.toby.properties.GridProperties;
 
 import javafx.scene.paint.Color;
 

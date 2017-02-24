@@ -1,19 +1,19 @@
-package com.altentechnology.gridcomponent;
+package com.toby;
 
 import java.util.List;
 
+import com.toby.entities.GridComponentScene;
+import com.toby.entities.Line;
+import com.toby.exceptions.LineGapOutOfBoundsException;
+import com.toby.exceptions.LineWidthOutOfBoundsException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.altentechnology.gridcomponent.cli.CLIParser;
-import com.altentechnology.gridcomponent.entities.Grid;
-import com.altentechnology.gridcomponent.entities.GridComponentScene;
-import com.altentechnology.gridcomponent.entities.Line;
-import com.altentechnology.gridcomponent.exceptions.BadSizedGridException;
-import com.altentechnology.gridcomponent.exceptions.LineGapOutOfBoundsException;
-import com.altentechnology.gridcomponent.exceptions.LineWidthOutOfBoundsException;
-import com.altentechnology.gridcomponent.properties.GridProperties;
-import com.altentechnology.gridcomponent.properties.GridPropertyChecker;
+import com.toby.cli.CLIParser;
+import com.toby.entities.Grid;
+import com.toby.exceptions.BadSizedGridException;
+import com.toby.properties.GridProperties;
+import com.toby.properties.GridPropertyChecker;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

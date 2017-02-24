@@ -1,6 +1,6 @@
-package com.altentechnology.gridcomponent.entities;
+package com.toby.entities;
 
-import com.altentechnology.gridcomponent.properties.GridProperties;
+import com.toby.properties.GridProperties;
 
 import javafx.scene.Camera;
 import javafx.scene.Group;

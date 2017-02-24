@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.entities;
+package com.toby.entities;
 
 import java.util.List;
 

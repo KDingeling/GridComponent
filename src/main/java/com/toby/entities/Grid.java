@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.entities;
+package com.toby.entities;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.altentechnology.gridcomponent.properties.GridProperties;
+import com.toby.properties.GridProperties;
 
 import javafx.scene.Group;
 import javafx.scene.Node;

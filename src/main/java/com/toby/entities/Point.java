@@ -1,4 +1,4 @@
-package com.altentechnology.gridcomponent.entities;
+package com.toby.entities;
 
 import javafx.geometry.Point3D;
 
